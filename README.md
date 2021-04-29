@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Oscar! 👋
 
-Hi, I'm Oscar! I am a full-stack web developer who recently graduated from Lambda with a desire to concentrate on front-end development. I have worked with a couple of cross-functional teans in creating web application. I have played the roles of UI\UX designer, Front-end Developer, and Back-end Developer.
+I am a full-stack web developer who recently graduated from Lambda with a desire to concentrate on front-end development. I have worked with a couple of cross-functional teans in creating web application. I have played the roles of UI\UX designer, Front-end Developer, and Back-end Developer.
 
 Here are some ideas to get you started:
 
