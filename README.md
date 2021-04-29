@@ -4,14 +4,14 @@ I am a full-stack web developer who recently graduated from Lambda with a desire
 
 🥇 Experience/Stack:
 -HTML5
--CSS
--Javascript
--React
--Java (SpringBoot)
--SQL
--Python
--Photoshop
--Figma
+- CSS
+- Javascript
+- React
+- Java (SpringBoot)
+- SQL
+- Python
+- Photoshop
+- Figma
 
 - I’m currently working on working creating a functional application for my mom's jello cake business called Modesto Jello Cakes.
 - I'm very passionate about powerlifting and working out. In the future I plan on creating a fitness app!
