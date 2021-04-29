@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - I'm very passionate about powerlifting and working out. In the future I plan on creating a fitness app!
 - Currently I'm studying algorithms in order to be fully prepare for interview within the coming weeks!
 - ⚡ Fun fact: I'm a huge lakers fan
--->
